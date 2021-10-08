@@ -1,1 +1,10 @@
+### General stuff
 node_modules
+.DS_Store
+
+
+### CypressIO ###
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
