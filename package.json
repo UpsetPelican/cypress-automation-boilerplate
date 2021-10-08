@@ -1,0 +1,18 @@
+{
+	"name": "cypress_boilerplate",
+	"version": "1.0.1",
+	"description": "Cypress Boilerplate",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"cypress:open": "$(npm bin)/cypress open",
+		"cypress:run": "$(npm bin)/cypress run"
+	},
+	"author": "Dane Worsham",
+	"license": "ISC",
+	"devDependencies": {
+		"cypress": "^8.5.0",
+		"eslint": "^7.32.0",
+		"eslint-plugin-cypress": "^2.12.1"
+	}
+}

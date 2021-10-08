@@ -1,0 +1,8 @@
+{
+	"chromeWebSecurity": false,
+	"env": {
+	  "baseUrl": "https://duckduckgo.com/",
+	  "searchTerm" : "Cypress Javascript"
+	}
+  }
+  
